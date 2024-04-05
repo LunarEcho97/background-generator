@@ -8,3 +8,5 @@ for i in range(1, 20):
     i/2
     r_n*10
     n_n = i+r_n
+
+print(r_n)
