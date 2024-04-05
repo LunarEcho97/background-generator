@@ -1,0 +1,2 @@
+When you connect to a server for the first time, your SSH client checks the server's key fingerprint against the known fingerprints to ensure 
+that you are not connecting to a malicious server. If the fingerprint matches, you can safely connect to the server by typing yes when prompted.

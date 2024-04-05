@@ -1,0 +1,2 @@
+You should now be able to interact with GitHub using Git commands, such as cloning repositories, pushing changes, 
+and pulling updates. If you encounter any issues or have any other questions, feel free to ask!
